@@ -6,4 +6,4 @@ df -hT
 
 free -m
 
-echo "---End---"
+echo "--End--"
