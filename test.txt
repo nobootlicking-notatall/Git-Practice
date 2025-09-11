@@ -5,3 +5,5 @@ echo "Hello Dear User"
 df -hT
 
 free -m
+
+echo "---End---"
